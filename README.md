@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @houzyk
+- 👋 Hi, I’m Houzair
 - 👀 I’m interested in Machine Learning, Theoretical Computer Science, AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
