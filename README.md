@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Houzair
-- 👀 I’m interested in Machine Learning, Theoretical Computer Science, AI
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Web Dev, Theoretical Computer Science and Logic
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
