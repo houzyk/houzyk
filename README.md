@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Houzair - a junior full-stack web developer from Mauritius.
+- 👋 Hi, I’m Houzair - full-stack web developer from Mauritius.
 - 👀 I’m interested in Web Development and Machine Learning.
 - 💛 My favourite programming language is JS (Sorry, not sorry!).
 - ❔Ask me about: Logic, Theoretical Computer Science or the Philosophy of Mathematics.
