@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Machine Learning.
 - 💛 My favourite programming language is JS (Sorry, not sorry!).
 - ❔Ask me about: Logic, Theoretical Computer Science or the Philosophy of Mathematics.
-- 🌱 I’m currently learning ReactJS and NodeJS.
+- 🌱 I’m currently learning the MERN stack.
 - 🤓 I'm currently working on an open-source platform for publishing Vanilla JS games (repo: rails-arhkade).
 - ✅ My last project was a Mauritius-focused Learning Management System (repo: rails-bateau).
 
