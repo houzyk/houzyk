@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Houzair, a Front-End Engineer from Mauritius.
+- 👋 Front-End Engineer from Mauritius.
 - 👀 I’m interested in anything Front-End.
 - 💛 My favourite programming language is JS (Sorry, not sorry!).
 - ❔Ask me about: Logic, Theoretical Computer Science or the Philosophy of Mathematics.
