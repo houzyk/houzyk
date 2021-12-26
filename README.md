@@ -1,3 +1,6 @@
+[![Houzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=houzyk)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Software Engineer from Mauritius.
 - 👀 I’m interested in anything Front-End.
 - 💛 My favourite programming language is JS (Sorry, not sorry!).
