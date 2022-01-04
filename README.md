@@ -1,8 +1,6 @@
-- 👋 Software Engineer from Mauritius.
-- 👀 I’m interested in anything Front-End.
+- 👋 Front End Software Engineer from Mauritius.
 - 💛 My favourite programming language is JS (Sorry, not sorry!).
 - ❔Ask me about: Logic, Theoretical Computer Science or the Philosophy of Mathematics.
-- 🌱 I’m currently learning the MERN stack.
 
 
 <!---
