@@ -1,5 +1,5 @@
-- 👋 Front End Software Engineer from Mauritius.
-- 💛 My favourite programming language is JS (Sorry, not sorry!).
+- 👋 Front-End Engineer.
+- 💛 My favourite programming language is Typescript.
 - ❔Ask me about: Logic, Theoretical Computer Science or the Philosophy of Mathematics.
 
 
