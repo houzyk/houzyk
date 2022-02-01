@@ -4,6 +4,8 @@
 
   [houzairkoussa.herokuapp.com](https://houzairkoussa.herokuapp.com/)
   
+  <img align="left" alt="next" width="40px" src="https://raw.githubusercontent.com/gilbarbara/logos/9f0858601cc8543b51c8eea0722dbab4a7c7a1f9/logos/nextjs.svg" />
+  
   <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
   
   <img align="left" alt="RubyOnRails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
