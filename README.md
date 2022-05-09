@@ -2,7 +2,7 @@
 
 Python, Ruby, HTML, CSS/SASS, JavaScript, TypeScript, C, Java, Prolog, Haskell
 
-Ruby On Rails, StimulusJS, ReactJS, NextJS, VueJS, .NET, ExpressJS, jQuery, Yesod
+Ruby On Rails, StimulusJS, ReactJS, NextJS, VueJS, .NET, ExpressJS, jQuery, IHP
 
 Yarn, NPM, NodeJS, Storybook, Redux, CSS-IN-JS, Jest, Enzyme, Puppeteer, ThreeJS, GSAP, jUnit, Rspec, Active Record, Faker, Pundit, Devise
 
